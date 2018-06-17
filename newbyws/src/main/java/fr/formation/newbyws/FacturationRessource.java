@@ -1,4 +1,4 @@
-package fr.formation.newbyws.facturation;
+package fr.formation.newbyws;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import javax.ws.rs.core.*;
 
 @Path("facturation")
 @Produces(MediaType.APPLICATION_JSON)
-public class FacturationService {
+public class FacturationRessource {
 
     @GET
     @Path("/facture/{id}")

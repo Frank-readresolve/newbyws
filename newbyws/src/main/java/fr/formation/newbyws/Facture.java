@@ -1,4 +1,4 @@
-package fr.formation.newbyws.facturation;
+package fr.formation.newbyws;
 
 public class Facture {
 
